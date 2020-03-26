@@ -2,7 +2,7 @@
 
 We should standard file case type to avoid sensitive case problem.
 
-Uppercase case is not recommended, we encourage use snake or kebab case.
+Uppercase case is not recommended, we encourage to use snake or kebab case.
 
 ## Output
 
