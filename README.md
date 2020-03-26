@@ -19,12 +19,12 @@ npm i check-case-webpack-plugin
 ## Usage
 
 ```js
-var CaseCheckPlugin = require('check-case-webpack-plugin');
+const { CheckCaseWebpackPlugin } = require('check-case-webpack-plugin');
 
-var webpackConfig = {
+const webpackConfig = {
   // context: 'your project path absolute path' // recommend define context.
   plugins: [
-    new CaseCheckPlugin({})
+    new CheckCaseWebpackPlugin({})
     // other plugins ...
   ]
   // other webpack config ...
