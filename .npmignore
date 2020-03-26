@@ -1,0 +1,5 @@
+/*
+!src/
+!dist/**/*
+/__tests__
+/node_modules
